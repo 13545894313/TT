@@ -1,0 +1,15 @@
+package com.taotao.controller;
+
+import org.apache.commons.net.ftp.FTPClient;
+import org.junit.Test;
+
+public class FTPTest {
+		
+	@Test
+	public void testFTPClient() throws Exception{
+		
+		FTPClient
+		
+		
+	}
+}
